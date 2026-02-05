@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/%E6%B2%99%E5%B8%82.lua", true))()
+loadstring(game:HttpGet("https://gitee.com/XiaoYunCN/lol/raw/master/云脚本.lua", true))()
